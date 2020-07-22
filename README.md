@@ -1,4 +1,4 @@
-# StrawberryTriviaGame
+# StrawberryTriviaGame :strawberry:
 This is an application that was created during my Summer 2020 Intro to Programming class. This application allow player to answers questions about
 strawberry and try to recived points.
 
