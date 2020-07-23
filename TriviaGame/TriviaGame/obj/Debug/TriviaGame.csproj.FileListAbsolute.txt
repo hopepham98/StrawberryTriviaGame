@@ -1,0 +1,14 @@
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe.config
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe.config
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb
