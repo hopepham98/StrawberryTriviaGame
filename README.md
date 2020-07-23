@@ -46,9 +46,6 @@ The challenge for this assignment was to figure out what questions to include in
 
             WriteLine("Thanks for playing! Press the enter to exit this game.");
             ReadLine();
-
-
-
         }
     }
 ```
